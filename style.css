@@ -566,8 +566,22 @@ body {
     text-transform: capitalize;
     font-weight: 700;
     letter-spacing: 1px;
-    
+}
 
+.heading-content span{
+    color: rgb(255, 129, 57)
+}
+
+.para-content{
+    font-size: 15px;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.917);
+    margin: 16px 0px;
+}
+
+.para-footer{
+    margin: 0px 0px;
+    
 }
 
 
